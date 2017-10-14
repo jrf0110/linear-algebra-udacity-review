@@ -1,4 +1,4 @@
-const Vector = require('./lib/vector')
+const Vector = require('../lib/vector')
 
 console.log('1.', new Vector(-0.221, 7.437).magnitude())
 console.log('2.', new Vector(8.813, -1.331, -6.247).magnitude())

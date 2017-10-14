@@ -1,4 +1,4 @@
-const Vector = require('./lib/vector')
+const Vector = require('../lib/vector')
 
 console.log('1.\n',
   new Vector(8.218, -9.341)
